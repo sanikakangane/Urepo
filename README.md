@@ -1,8 +1,7 @@
 # SHRI-AI.
-This is my latest app, developed using GOOGLE-AI-STUDIO.
-<br> It's a personality quiz.
-<br> About Shri :
-<br> ~ Asks user to answer the 10 Questions, related to themselves.
-<br> ~ Analyzes the user, based on the answered questions and then provides report to user, about which HARRY-POTTER character best suits him/her.
-<br> In my case, I am Hermoine Granger.
-<br> #shri-personality-quiz#
+My Latest App: Personality Quiz (Built Using Google AI Studio).
+<br> This is my latest app, developed using Google AI Studio.
+<br> It is a personality quiz that asks users 10 questions related to themselves.
+<br> Based on the answers, the system analyzes the user’s personality and identifies which Harry Potter character matches them the best.
+<br> In my case, the result was Hermione Granger.
+#shri-personality-quiz
